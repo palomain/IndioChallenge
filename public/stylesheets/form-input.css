@@ -1,0 +1,29 @@
+.children-inputs {
+    padding-left:50px;
+}
+
+.form-box{
+    width: 500px;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    margin: 5px;
+    padding : 5px;
+}
+
+.input-buttons {
+   text-align: right;
+
+}
+
+.input-buttons .btn {
+    margin-left: 5px;
+}
+
+.form-container {
+    border-left:1px dashed cadetblue;
+}
+
+
+
+
+

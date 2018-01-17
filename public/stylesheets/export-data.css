@@ -1,0 +1,10 @@
+.export-data{
+    margin:10px;
+}
+
+.export-data-text{
+    font-size: 12px;
+    font-family: Calibri,  serif;
+    width:100%;
+    min-height: 200px;
+}

@@ -1,0 +1,12 @@
+/node_modules
+/build
+bundle.js
+bundle.js.map
+style.css
+style.css.map
+npm-debug.log
+.DS_Store
+
+# IntelliJ
+*.iml
+/.idea
