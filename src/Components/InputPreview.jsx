@@ -27,7 +27,7 @@ class InputPreview extends Component {
             warnMessage = CONDITION_TYPES[inputData.type].invalidTypeMessage;
         }
 
-        if(inputData.children.length) {
+        if(inputData.children) {
             for(let child of inputData.children){
                 let matchingType = child.condition.matchingType;
                 let matchingValue = child.condition.matchingValue;
