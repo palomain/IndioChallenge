@@ -3,17 +3,6 @@ import '../../public/stylesheets/export-data.css';
 
 class ExportData extends Component {
 
-    /*constructor(){
-        super();
-        this.state = {
-            output : ''
-        };
-    }
-
-    updateOutput(output) {
-       this.setState({output});
-    }*/
-
     render() {
         return (
             <div className="export-data">
